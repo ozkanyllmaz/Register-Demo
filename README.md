@@ -5,8 +5,8 @@ Bu proje, kullanıcıların bir kayıt sistemi aracılığıyla kaydolmasını v
 
 ## Ekran Resimleri
 <p align = "center">
-    <img src = "https://github.com/user-attachments/assets/103371b7-9721-4ccc-b1bf-7de0f056e15c" alt = "login" width = 45%>
-    <img src = "https://github.com/user-attachments/assets/9082412e-ce1e-4282-baec-1745b438c2df" alt = "sign up" width = 45%>
+    <img src = "https://github.com/user-attachments/assets/103371b7-9721-4ccc-b1bf-7de0f056e15c" alt = "login" height = 45%>
+    <img src = "https://github.com/user-attachments/assets/9082412e-ce1e-4282-baec-1745b438c2df" alt = "sign up" height = 45%>
 </p>
 <p align = "center">
     <img src = "https://github.com/user-attachments/assets/6562021d-c8e3-4a18-9040-bb281702a06f" alt = "reset password" width = 45%>
